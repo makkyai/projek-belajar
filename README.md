@@ -12,7 +12,7 @@
 
 ## table
 |no|nama|
-|...|...|
+|---|---|
 |1|makky|
 |2|ahmad|
 ```python
