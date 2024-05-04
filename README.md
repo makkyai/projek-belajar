@@ -4,6 +4,6 @@
 ^^ini subjudul
 ## contoh list
 ### list buah buahan
--apel
--pisang
--jeruk
+- apel
+- pisang
+- jeruk
